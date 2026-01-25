@@ -20,7 +20,6 @@
   <img src="https://img.shields.io/badge/License-MIT-blue.svg?style=flat-square" alt="MIT License">
   <br><br>
   <a href="https://devxhub.com/" target="_blank"><img src="https://img.shields.io/badge/Owner-Devxhub-blue?style=for-the-badge&logo=github" alt="Devxhub"></a>
-  <a href="https://www.linkedin.com/in/maksudul-haque-fcub" target="_blank"><img src="https://img.shields.io/badge/Curator-maksudul%20haque-0A66C2?style=for-the-badge&logo=linkedin" alt="Maksudul Haque"></a>
 </div>
 
 ---
@@ -164,4 +163,4 @@ This project is licensed under the **MIT License** — see [LICENSE](LICENSE) fi
 
 This repository is for educational purposes. We don't own the rights to these books. Please support authors by purchasing books you find valuable.
 
-**Owner:** [Devxhub](https://devxhub.com/) | **Curator:** [Maksudul Haque](www.linkedin.com/in/maksudul-haque-fcub)
+**Owner:** [Devxhub](https://devxhub.com/)
