@@ -3,8 +3,8 @@
 -->
 
 <div align="center">
-  <img src="Ultimate_Tech_Book_Collection_by_Devxhub.png" alt="Books Collection Banner" width="400" style="max-width: 100%; border-radius: 12px; box-shadow: 0 4px 24px rgba(0,0,0,0.08); margin-bottom: 16px;"/>
-  <h1>📚 <span style="color:#6C63FF;">Ultimate Tech Book Collection</span></h1>
+  <img src="Awesome_book_collection_by_Devxhub.jpg" alt="Books Collection Banner" width="400" style="max-width: 100%; border-radius: 12px; box-shadow: 0 4px 24px rgba(0,0,0,0.08); margin-bottom: 16px;"/>
+  <h1>📚 <span style="color:#6C63FF;">Awesome Book Collection</span></h1>
   <p>
     <strong style="font-size:1.2em;">A meticulously curated collection of technical books covering programming, software engineering, system design, and more.</strong>
   </p>
@@ -20,7 +20,6 @@
   <img src="https://img.shields.io/badge/License-MIT-blue.svg?style=flat-square" alt="MIT License">
   <br><br>
   <a href="https://devxhub.com/" target="_blank"><img src="https://img.shields.io/badge/Owner-Devxhub-blue?style=for-the-badge&logo=github" alt="Devxhub"></a>
-  <a href="https://www.linkedin.com/in/mejbaur/" target="_blank"><img src="https://img.shields.io/badge/Curator-Mejbaur%20Bahar%20Fagun-0A66C2?style=for-the-badge&logo=linkedin" alt="Mejbaur Bahar Fagun"></a>
 </div>
 
 ---
@@ -31,169 +30,96 @@
 - **Total Books**: 165+ PDF files
 - **Categories**: 20+ organized categories
 - **Featured Collection**: Complete "10 Books for Software Engineers" set
-- **Last Updated**: October 2025
+- **Last Updated**: February 2026.
 
 ### 🏆 Essential Software Engineering Books (Complete Set)
 ✅ **All 10 Essential Books Included:**
-1. **The Pragmatic Programmer** - Andrew Hunt, David Thomas
+1. **The Pragmatic Programmer** - Andrew Hunt, David Thomas  
+   📖 [20th Anniversary Edition](Problem%20Solving/David%20Thomas,%20Andrew%20Hunt%20-%20The%20Pragmatic%20Programmer_%20Your%20Journey%20To%20Mastery,%2020th%20Anniversary%20Edition%20(2019,%20Addison-Wesley%20Professional)%20-%20libgen.li.pdf) | [Original Edition](Problem%20Solving/Andrew%20Hunt,%20David%20Thomas%20-%20The%20Pragmatic%20Programmer_%20From%20Journeyman%20to%20Master%20(1999,%20Addison-Wesley%20Professional)%20-%20libgen.lc%20(1).pdf)
 2. **Designing Data-Intensive Applications** - Martin Kleppmann  
-3. **The Mythical Man-Month** - Frederick P. Brooks Jr.
-4. **Refactoring** - Martin Fowler
-5. **Software Architecture: The Hard Parts** - Neal Ford, Mark Richards, Pramod Sadalage, Zhamak Dehghani
-6. **Working Effectively with Legacy Code** - Michael C. Feathers
-7. **Database Internals** - Alex Petrov
-8. **A Philosophy of Software Design** - John Ousterhout
-9. **Clean Code** - Robert C. Martin
-10. **Why Programs Fail** - Andreas Zeller
+   📖 [Read Book](Software%20Architecture/_Designing%20Data%20Intensive%20Applications.pdf)
+3. **The Mythical Man-Month** - Frederick P. Brooks Jr.  
+   📖 [Read Book](Software%20Engineering/mythical-man-month.pdf)
+4. **Refactoring** - Martin Fowler  
+   📖 [Read Book](Software%20Engineering/Martin%20Fowler%20-%20Refactoring%20-%20Improving%20the%20Design%20of%20Existing%20Code.pdf)
+5. **Software Architecture: The Hard Parts** - Neal Ford, Mark Richards, Pramod Sadalage, Zhamak Dehghani  
+   📖 [Read Book](Software%20Architecture/Software%20Architecture%20The%20Hard%20Parts%20-%20Neal%20Ford,%20Mark%20Richards,%20Pramod%20Sadalage,%20Zhamak%20Dehghani.pdf)
+6. **Working Effectively with Legacy Code** - Michael C. Feathers  
+   📖 [Read Book](programming/refactoring/[Robert%20C.%20Martin%20series]%20Feathers,%20Michael%20C%20-%20Working%20effectively%20with%20legacy%20code%20(2013,%20Prentice%20Hall%20PTR)%20-%20libgen.li.pdf)
+7. **Database Internals** - Alex Petrov  
+   📖 [Read Book](Databases/Alex%20Petrov%20-%20Database%20Internals_%20A%20Deep%20Dive%20into%20How%20Distributed%20Data%20Systems%20Work-O'Reilly%20Media%20(2019).pdf)
+8. **A Philosophy of Software Design** - John Ousterhout  
+   📖 [Read Book](Software%20Architecture/A%20Philosophy%20of%20Software%20Design%20-%20John%20Ousterhout.pdf)
+9. **Clean Code** - Robert C. Martin  
+   📖 [Read Book](programming/clean-code/Clean%20Code_%20A%20Handbook%20of%20Agile%20Software%20Craftsmanship%20-%20Robert%20C.%20Martin.pdf)
+10. **Why Programs Fail** - Andreas Zeller  
+    📖 [Read Book](Software%20Engineering/Why_Programs_Fail_Second_Edition_A_Guide_to_Systematic_Debugging__2009by-Andreas_Zeller.pdf)
 
-👉 [View the complete catalog of all 165+ books and authors here!](BOOKS_LIST.md)
-
----
-
-## 📄 License
-
-This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) file for details.
-
----
-
-## ⚠️ Disclaimer
-This repository contains a collection of books for educational purposes only. We do not own the rights to these books. Please support the authors by purchasing the books if you find them valuable.
+[→ View complete catalog of 165+ books](BOOKS_LIST.md)
 
 ---
 
-## 🗂 Categories
+## 🌟 Featured Book of the Week
 
-### 🧮 Core Computer Science
-- **📚 Algorithms** - Classic algorithm books and competitive programming resources
-- **💾 Databases** - SQL, NoSQL, database design, and optimization
-- **💻 Operating Systems** - OS concepts, design, and implementation
-- **🌐 Networking** - Computer networks, protocols, and distributed systems
-- **🔐 Security** - Cybersecurity, encryption, and secure coding practices
-- **⚙️ Compilers** - Language processing and compiler design
-- **🧮 Computer Architecture** - Hardware and system organization
+**Designing Data-Intensive Applications** by Martin Kleppmann  
+📖 [Read Now](Software%20Architecture/_Designing%20Data%20Intensive%20Applications.pdf)
 
-### 💻 Programming
-- **⌨️ Programming Languages** - Language-specific books and guides
-- **🎨 Design Patterns** - Software design patterns and best practices
-- **✨ Clean Code** - Writing maintainable and efficient code
-- **🔄 Concurrency** - Parallel and concurrent programming
-- **🧪 Testing** - Software testing methodologies and tools
-- **🔍 Debugging** - Debugging techniques and tools
-- **📊 Data Structures** - Essential data structures and their implementations
+*Why you should read it: This book is a comprehensive guide to the principles and practices of building scalable, reliable data systems. Essential for anyone working with modern data infrastructure.*
 
-### 🏗 Software Architecture & Design
-- **🏢 System Design** - Large-scale system design principles
-- **🧩 Microservices** - Building and managing microservices
-- **🧭 Domain-Driven Design** - DDD principles and patterns
-- **🏛️ Software Architecture** - Architectural patterns and best practices
-- **📡 Distributed Systems** - Design and implementation of distributed systems
-- **🧱 API Design** - REST, GraphQL, and API best practices
-- **📦 Monolith to Microservices** - Migration strategies and patterns
+## 📚 Collection by Category
 
-### 🛠 DevOps & Cloud
-- **🚀 DevOps** - CI/CD, automation, and infrastructure
-- **🐳 Docker & Kubernetes** - Containerization and orchestration
-- **☁️ Cloud Computing** - AWS, Azure, GCP, and cloud patterns
-- **🔧 Infrastructure as Code** - Terraform, Ansible, and configuration management
-- **⚡ Performance Engineering** - System optimization and scaling
-- **📊 Monitoring & Observability** - Logging, metrics, and tracing
-- **🛡️ DevSecOps** - Security in DevOps practices
+### Core Computer Science
+- **Algorithms** — Data structures, optimization, competitive programming
+- **Databases** — SQL, NoSQL, design, performance
+- **Operating Systems** — Concepts, design, Linux
+- **Networking** — Protocols, distributed systems, TCP/IP
+- **Security** — Cryptography, ethical hacking, secure coding
+- **Compilers** — Language design, parsing, code generation
 
-### 📈 Career & Soft Skills
-- **🤝 Soft Skills** - Communication, leadership, and teamwork
-- **🧩 Problem Solving** - Technical interview preparation
-- **📈 Career Growth** - Professional development resources
-- **💼 Technical Leadership** - Leading engineering teams
-- **📝 Technical Writing** - Documenting software effectively
-- **💡 Productivity** - Time management and productivity hacks
-- **🌱 Career Transitions** - Moving between tech roles
+### Software Development
+- **Programming Languages** — Python, Java, JavaScript, Go
+- **Design Patterns** — OOP, architectural patterns, best practices
+- **Clean Code** — Maintainability, readability, refactoring
+- **Concurrency** — Parallel programming, threading, async
+- **Testing** — Unit testing, integration testing, test automation
+- **Debugging** — Troubleshooting, profiling, analysis
 
-### 🤖 AI & Data Science
-- **🧠 Machine Learning** - ML algorithms and applications
-- **📊 Data Science** - Data analysis and visualization
-- **🔍 Deep Learning** - Neural networks and advanced ML
-- **📈 Big Data** - Large-scale data processing
-- **🤖 Natural Language Processing** - Text processing and understanding
-- **🖼️ Computer Vision** - Image and video analysis
-- **📊 Data Engineering** - Building data pipelines
+### Architecture & Design
+- **System Design** — Scalability, distributed architecture, microservices
+- **Software Architecture** — Patterns, principles, trade-offs
+- **Microservices** — Design, deployment, communication
+- **Domain-Driven Design** — Domain modeling, event sourcing
+- **API Design** — REST, GraphQL, versioning
+- **Monolith to Microservices** — Migration strategies
 
-### 🌐 Web & Mobile Development
-- **🖥️ Frontend** - HTML, CSS, JavaScript, and frameworks
-- **🔙 Backend** - Server-side development
-- **📱 Mobile** - iOS and Android development
-- **🌍 Web Assembly** - High-performance web applications
-- **🔒 Web Security** - Web application security practices
-- **⚡ PWA** - Progressive Web Apps
-- **📱 React Native/Flutter** - Cross-platform mobile development
+### DevOps & Cloud
+- **Docker & Kubernetes** — Containerization, orchestration
+- **CI/CD** — Automation, pipelines, deployment
+- **Infrastructure as Code** — Terraform, Ansible, CloudFormation
+- **Cloud Computing** — AWS, Azure, GCP
+- **Monitoring & Observability** — Logging, metrics, tracing
+- **DevSecOps** — Security in CI/CD
 
-### 🎮 Game Development
-- **🎮 Game Design** - Game development principles
-- **⚙️ Game Engines** - Unity, Unreal, and more
-- **🎨 Game Graphics** - Computer graphics and shaders
-- **🎵 Game Audio** - Sound design and implementation
-- **🕹️ Game AI** - Artificial intelligence in games
-- **📱 Mobile Games** - Mobile game development
-- **🌐 Web Games** - Browser-based game development
+### Data & AI
+- **Machine Learning** — Algorithms, supervised learning, unsupervised learning
+- **Deep Learning** — Neural networks, transformers, CNNs
+- **Data Science** — Analysis, visualization, statistical methods
+- **Big Data** — Distributed processing, Spark, Hadoop
+- **Natural Language Processing** — Text processing, NLP models
+- **Computer Vision** — Image analysis, object detection
 
-### 🔐 Security
-- **🔒 Application Security** - Secure coding practices
-- **🛡️ Network Security** - Protecting network infrastructure
-- **🔑 Cryptography** - Encryption and security protocols
-- **👨‍💻 Ethical Hacking** - Security testing and penetration testing
-- **🔍 Digital Forensics** - Investigating security incidents
-- **🌐 Web Security** - Securing web applications
-- **📱 Mobile Security** - Mobile app security best practices
+### Modern Tech
+- **Web Development** — Frontend, backend, full-stack
+- **Mobile Development** — iOS, Android, cross-platform
+- **Blockchain & Web3** — Smart contracts, DeFi, cryptography
+- **Game Development** — Game design, engines, graphics
 
-### 🧠 Artificial Intelligence
-- **🤖 AI Fundamentals** - Core AI concepts and theory
-- **🧠 Neural Networks** - Deep learning architectures
-- **🗣️ NLP** - Natural Language Processing
-- **👁️ Computer Vision** - Image and video analysis
-- **🤖 Reinforcement Learning** - AI decision making
-- **🧬 Generative AI** - GANs, Transformers, and creative AI
-- **⚖️ AI Ethics** - Responsible AI development
-
-### 🌍 Web3 & Blockchain
-- **⛓️ Blockchain Basics** - Fundamentals of blockchain technology
-- **🪙 Cryptocurrencies** - Bitcoin, Ethereum, and altcoins
-- **📜 Smart Contracts** - Ethereum, Solidity, and DApps
-- **🌐 Web3 Development** - Building decentralized applications
-- **🔒 DeFi** - Decentralized Finance
-- **🖼️ NFTs** - Non-fungible tokens and digital ownership
-- **🔐 Blockchain Security** - Securing blockchain applications
-- **🌉 Layer 2 Solutions** - Scaling blockchain networks
-
-### 🧰 Software Development Tools
-- **🔧 Version Control** - Git, GitHub, and collaboration
-- **📦 Package Managers** - npm, pip, Maven, etc.
-- **🚀 CI/CD** - Continuous Integration and Deployment
-- **🐳 Containers** - Docker and containerization
-- **☸️ Kubernetes** - Container orchestration
-- **📝 IDEs & Editors** - Development environments
-- **🔍 Debugging Tools** - Debugging and profiling software
-- **📊 Performance Tools** - Performance analysis and optimization
-
----
-## 🔍 Featured Books
-
-### 🏆 Essential Software Engineering Collection (Complete)
-- **The Pragmatic Programmer** by Andrew Hunt & David Thomas - `Problem Solving`
-- **Designing Data-Intensive Applications** by Martin Kleppmann - `Databases/Design`
-- **The Mythical Man-Month** by Frederick P. Brooks Jr. - `Software Engineering`
-- **Refactoring** by Martin Fowler - `Software Engineering`
-- **Software Architecture: The Hard Parts** by Neal Ford, Mark Richards, Pramod Sadalage, Zhamak Dehghani - `Software Architecture`
-- **Working Effectively with Legacy Code** by Michael C. Feathers - `Programming/Refactoring`
-- **Database Internals** by Alex Petrov - `Databases`
-- **A Philosophy of Software Design** by John Ousterhout - `Software Architecture`
-- **Clean Code** by Robert C. Martin - `Programming/Clean Code`
-- **Why Programs Fail** by Andreas Zeller - `Software Engineering`
-
-### 🔥 Top Categories by Book Count
-- **Programming** (35+ books) - Clean Code, Design Patterns, Concurrency, Testing
-- **Software Architecture** (25+ books) - System Design, Microservices, DDD
-- **Databases** (20+ books) - MySQL, PostgreSQL, Redis, Elasticsearch, MongoDB
-- **DevOps** (15+ books) - Docker, Kubernetes, CI/CD, Infrastructure
-- **Algorithms** (10+ books) - Data Structures, Competitive Programming
+### Professional Growth
+- **Soft Skills** — Communication, leadership, teamwork
+- **Career Development** — Technical interviews, career growth
+- **Problem Solving** — System design interviews, algorithms
+- **Technical Leadership** — Team building, mentoring
+- **Productivity** — Time management, effectiveness
 
 ---
 
@@ -231,16 +157,58 @@ This repository contains a collection of books for educational purposes only. We
 
 ---
 
+## ⭐ Community Reviews
+
+**The Pragmatic Programmer** ⭐⭐⭐⭐⭐
+*"Changed how I approach coding completely!"* - Emily Johnson
+
+**Clean Code** ⭐⭐⭐⭐⭐  
+*"Every developer should read this twice!"* - Michael Anderson
+
+[📝 Submit Your Review](https://github.com/devxhub/awesome-book-collection/issues/new?template=review.md)
+
+## 📢 Share Now
+
+**How To Share**
+
+[📘 Share on Facebook](https://www.facebook.com/sharer/sharer.php?u=https://github.com/devxhub/awesome-book-collection)  
+[💼 Share on LinkedIn](https://www.linkedin.com/sharing/share-offsite/?url=https://github.com/devxhub/awesome-book-collection)   
+[✈️ Share on Telegram](https://t.me/share/url?url=https://github.com/devxhub/awesome-book-collection&text=Check%20out%20this%20awesome%20collection%20of%20165%2B%20technical%20books!)  
+[🐦 Share on 𝕏 (Twitter)](https://twitter.com/intent/tweet?text=Check%20out%20this%20awesome%20collection%20of%20165%2B%20technical%20books!&url=https://github.com/devxhub/awesome-book-collection)
+
+
 ## 🤝 Contributing
 
-Contributions are welcome! Here's how you can contribute:
+Have a great technical book? Contributions are welcome!
 
 1. Fork the repository
 2. Add your book to the appropriate category
-3. Update the README if needed
+3. Update category READMEs if needed
 4. Submit a pull request
 
-Please ensure any books you add are legally shareable and properly attributed.
+Please ensure books are legally shareable and properly attributed.
 
 ---
 
+## 📄 License
+
+This project is licensed under the **MIT License** — see [LICENSE](LICENSE) file for details.
+
+---
+
+## ⚠️ Note
+
+This repository is for educational purposes. We don't own the rights to these books. Please support authors by purchasing books you find valuable.
+
+**Owner:** [Devxhub](https://devxhub.com/)
+
+**Stay Connected**
+[📘 Facebook](https://facebook.com/devxhubltd)
+[💼 LinkedIn](https://linkedin.com/company/devxhubltd)
+[🐦 Twitter/X](https://twitter.com/devxhub)
+[🎥 YouTube](https://youtube.com/@devxhub)
+[💻 GitHub](https://github.com/devxhub)
+ 
+---
+ 
+*© 2026 Devxhub Limited. All Rights Reserved.*
