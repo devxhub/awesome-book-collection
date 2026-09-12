@@ -18,6 +18,7 @@ Welcome to the **Web & Mobile Development** section! This category contains reso
 - [Eloquent JavaScript](https://github.com/fagun18/Books-Collection/tree/main/Web%20%26%20Mobile%20Development/JavaScript)
 - [Clean Code in JavaScript](https://github.com/fagun18/Books-Collection/tree/main/Web%20%26%20Mobile%20Development/JavaScript)
 - [React: Up & Running](https://github.com/fagun18/Books-Collection/tree/main/Web%20%26%20Mobile%20Development/React)
+- [The Concise TypeScript Book](https://github.com/gibbok/typescript-book) - A free and open-source guide to TypeScript from fundamentals through advanced concepts.
 
 ## 🛠️ Technologies & Frameworks
 
